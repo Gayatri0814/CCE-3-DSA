@@ -1,0 +1,94 @@
+/*
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 
+
+*/
+
+/*
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 1
+Enter Book ID: 15316
+Enter Book Title: The Great Gatsby
+Enter Author Name: F. Scott Fitzgerald
+
+*/
+
+/*
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 2
+Enter Book ID to search: 32165
+Book Found!
+ID: 32165
+Title: Pride and Prejudice
+Author: Jane Austen
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 2
+Enter Book ID to search: 32187 
+Book not found.
+
+*/
+
+/*
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 3
+Enter Book ID to delete: 32165
+Book deleted successfully.
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 3 
+Enter Book ID to delete: 45435
+Book not found.
+
+*/
+
+/*
+
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display All Books
+0. Exit
+Enter your choice: 4
+
+Books in Ascending Order:
+ID: 15316 | Title: The Great Gatsby | Author: F. Scott Fitzgerald
+ID: 23456 | Title: Frankenstein | Author: Mary Shelley
+ID: 34537 | Title: To Kill a Mockingbird | Author: Harper Lee
+
+*/
